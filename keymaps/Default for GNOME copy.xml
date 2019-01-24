@@ -7,11 +7,16 @@
   <action id="EditorSelectWord" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="ParameterInfo" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="Vcs.UpdateProject" />
   <action id="osmedile.intellij.stringmanip.DuplicateAndIncrementAction">
     <keyboard-shortcut first-keystroke="shift ctrl numpad5" />
   </action>
