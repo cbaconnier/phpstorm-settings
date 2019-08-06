@@ -6,6 +6,7 @@
       <mapping pattern="php-fpm-startup" type="PLAIN_TEXT" />
       <mapping pattern="79330f07f452521f58f2a687ae1695f401fea0f2" type="PLAIN_TEXT" />
       <mapping pattern="PlacesController" type="PLAIN_TEXT" />
+      <mapping pattern="zohoRequests" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="," type="PLAIN_TEXT" />
       <mapping pattern="mysql2sqlite" type="PLAIN_TEXT" />
