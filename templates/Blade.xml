@@ -319,4 +319,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="@dd" value="{{ dd($VALUE$) }}" description="Blade dd()" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
