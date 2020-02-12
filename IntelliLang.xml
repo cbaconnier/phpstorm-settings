@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="js">
+      <display-name>x-init</display-name>
+      <prefix>x-init=&quot;</prefix>
+      <suffix>&quot;</suffix>
+    </injection>
+  </component>
+</application>
