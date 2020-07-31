@@ -20,6 +20,14 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Vue" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
