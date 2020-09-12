@@ -2,19 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="PlacesController" type="PLAIN_TEXT" />
-      <mapping pattern="export-ignore" type="PLAIN_TEXT" />
-      <mapping pattern="79330f07f452521f58f2a687ae1695f401fea0f2" type="PLAIN_TEXT" />
-      <mapping pattern="PostViewModel" type="PLAIN_TEXT" />
-      <mapping pattern="mysql2sqlite" type="PLAIN_TEXT" />
-      <mapping pattern="pagination" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="eca-table" type="PLAIN_TEXT" />
+      <mapping pattern="export-ignore" type="PLAIN_TEXT" />
       <mapping pattern="," type="PLAIN_TEXT" />
       <mapping pattern="DockerFileSSH" type="PLAIN_TEXT" />
+      <mapping pattern="79330f07f452521f58f2a687ae1695f401fea0f2" type="PLAIN_TEXT" />
+      <mapping pattern="PostViewModel" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-startup" type="PLAIN_TEXT" />
       <mapping pattern="zohoRequests" type="PLAIN_TEXT" />
+      <mapping pattern="pagination" type="PLAIN_TEXT" />
+      <mapping pattern="mysql2sqlite" type="PLAIN_TEXT" />
       <mapping pattern="zoho/credentials" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="2fb94a690b64ef6b8dcdbe9c5adea734f8f8c867" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
@@ -23,6 +23,7 @@
       <mapping ext="used" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
