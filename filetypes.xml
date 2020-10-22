@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="PlacesController" type="PLAIN_TEXT" />
       <mapping pattern="export-ignore" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="79330f07f452521f58f2a687ae1695f401fea0f2" type="PLAIN_TEXT" />
       <mapping pattern="PostViewModel" type="PLAIN_TEXT" />
       <mapping pattern="mysql2sqlite" type="PLAIN_TEXT" />
