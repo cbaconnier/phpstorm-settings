@@ -17,4 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl dead_circumflex" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ProjectView.ShowExcludedFiles">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
 </keymap>
