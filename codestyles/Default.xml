@@ -19,4 +19,7 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="2" />
+  </XML>
 </code_scheme>
