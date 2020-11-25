@@ -17,4 +17,10 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="plcy" value="public function viewAny(User $user): bool&#10;{&#10;    return false;&#10;}&#10;&#10;public function view(User $user, $1$): bool&#10;{&#10;    return false;&#10;}&#10;&#10;public function create(User $user): bool&#10;{&#10;    return false;&#10;}&#10;&#10;public function update(User $user, $1$): bool&#10;{&#10;    return false;&#10;}&#10;&#10;public function delete(User $user, $1$): bool&#10;{&#10;    return false;&#10;}" description="add default policy methods" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
