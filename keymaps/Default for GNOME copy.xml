@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
@@ -17,4 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl dead_circumflex" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ProjectView.ShowExcludedFiles">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
 </keymap>
