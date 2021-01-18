@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -18,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl dead_circumflex" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
   <action id="ProjectView.ShowExcludedFiles">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
