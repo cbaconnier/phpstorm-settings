@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fallbacks/broadcast-fallback.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="PlacesController" type="PLAIN_TEXT" />
       <mapping pattern="eca-table" type="PLAIN_TEXT" />
       <mapping pattern="export-ignore" type="PLAIN_TEXT" />
