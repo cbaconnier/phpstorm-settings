@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fallbacks/broadcast-fallback.blade.php" type="AUTO_DETECTED" />
       <mapping pattern="PlacesController" type="PLAIN_TEXT" />
       <mapping pattern="eca-table" type="PLAIN_TEXT" />
       <mapping pattern="export-ignore" type="PLAIN_TEXT" />
@@ -18,19 +19,17 @@
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="2fb94a690b64ef6b8dcdbe9c5adea734f8f8c867" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="pph" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="used" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
