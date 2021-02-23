@@ -23,7 +23,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="lorempixel" value="https://via.placeholder.com/$WIDTH$x$HEIGHT$" description="Add image placeholder from lorempixel" toReformat="false" toShortenFQNames="true">
+  <template name="pixum" value="https://via.placeholder.com/$WIDTH$x$HEIGHT$" description="Add image placeholder from lorempixel" toReformat="false" toShortenFQNames="true">
     <variable name="WIDTH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="HEIGHT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
