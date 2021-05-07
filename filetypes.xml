@@ -7,14 +7,14 @@
       <mapping pattern="eca-table" type="PLAIN_TEXT" />
       <mapping pattern="export-ignore" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
-      <mapping pattern="DockerFileSSH" type="PLAIN_TEXT" />
       <mapping pattern="," type="PLAIN_TEXT" />
+      <mapping pattern="DockerFileSSH" type="PLAIN_TEXT" />
       <mapping pattern="79330f07f452521f58f2a687ae1695f401fea0f2" type="PLAIN_TEXT" />
       <mapping pattern="PostViewModel" type="PLAIN_TEXT" />
       <mapping pattern="php-fpm-startup" type="PLAIN_TEXT" />
       <mapping pattern="zohoRequests" type="PLAIN_TEXT" />
-      <mapping pattern="pagination" type="PLAIN_TEXT" />
       <mapping pattern="mysql2sqlite" type="PLAIN_TEXT" />
+      <mapping pattern="pagination" type="PLAIN_TEXT" />
       <mapping pattern="zoho/credentials" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
