@@ -3,5 +3,7 @@
     <option name="enabledDirectories" value="false" />
     <option name="isEnabledDirectories" value="false" />
     <option name="monochromeColor" value="546e7a" />
+    <option name="accentColor" value="999999" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
