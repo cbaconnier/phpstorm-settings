@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl dead_circumflex" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="PhpNewClass">
     <keyboard-shortcut first-keystroke="alt 9" />
